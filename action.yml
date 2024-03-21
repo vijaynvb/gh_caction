@@ -1,4 +1,4 @@
-name: Cache Java and Maven Dependencies
+name: Cache Java and Maven Dependencies1
 description: This action allows caching both Java and Maven Dependencies based on the pom.xml file
 
 inputs: 
